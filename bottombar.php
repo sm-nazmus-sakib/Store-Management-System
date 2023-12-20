@@ -1,0 +1,1 @@
+<p class="text-center p-2">Copyright: JS IT ZONE</p>
